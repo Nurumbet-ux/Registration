@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Registration</string>
+    <string name="join_to_our_group_and_stay_productive">Discover the latest in electronic and smart appliance technology with ZEON</string>
+    <string name="user_name">Login</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="you_are_not_a_member">You aren"t a member? YES</string>
+    <string name="register">Register</string>
+    <string name="join">Join to our group and stay productive!</string>
+    <string name="name">Name</string>
+    <string name="zeon">ZEON</string>
+    <string name="surname">surname</string>
+    <string name="login_name">Login name</string>
+    <string name="exit"><![CDATA[<]]></string>
+    <string name="already_a_member">Already a member? YES</string>
+    <string name="companyName">ZEON</string>
+    <string name="you_are_in_system">You are in system!</string>
+</resources>
